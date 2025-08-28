@@ -1,0 +1,19 @@
+1) - Ferramenta de gcs escolhida: github.
+
+2) - Acesse o github e para  criar um repositório clique no botão verde "NOVO".
+   - Adicione as informações do seu repositório.
+   - Com o repositório criado, clieque em " criar um codespace" e em seguida no botão VERDE "CRIAR NOVO CODESPACE".
+   - Crie uma pasta nos arquivos do seu computador e adicione no codespace.
+   - Já está tudo pronto para codar.
+
+3) - Em repositório públicos qualquer pessoa pode fazer check-out. Já nos privados, apenas usúarios auorizados podem acessar.
+   - Para realizar a autorização, vá no repositório, clique em "configurações" e depois em " colaboradores" em seguida em "gerenciar vizibilidade".
+
+
+4) - Entre no repositório e clique no botão VERDE "CODIGO"  e depois em "BAIXAR ZIP", isso vai realizar o download, isso baixará o projeto no  computador.
+
+5) - Não, o github permite que várias pessoas editem o mesmo arquivo simultaneamente, mas pode gerar conflito que depois terá que ser  resolvido manualmente.
+
+6) - Ao fazer o check-in fica registrado o nome do usuário que fez o commit, data, hora, o que foi alterado, e mensagem do commit.
+
+7) - A auditoria é feita automaticamente no histórico de commits, disponível na aba "COMMITS".
